@@ -1,0 +1,12 @@
+[
+  {"timestamp":"2026-09-01T10:00:00Z","device_id":"camera-01","event_type":"network_connection","destination":"broker.lab.local","destination_approved":true,"protocol":"mqtt","port":8883},
+  {"timestamp":"2026-09-01T10:01:00Z","device_id":"camera-02","event_type":"network_connection","destination":"203.0.113.55","destination_approved":false,"protocol":"mqtt","port":1883},
+  {"timestamp":"2026-09-01T10:02:00Z","device_id":"sensor-04","event_type":"publish_rate","messages_per_minute":360,"baseline_messages_per_minute":60},
+  {"timestamp":"2026-09-01T10:03:00Z","device_id":"gateway-02","event_type":"broker_registration","broker":"broker-shadow.lab.local","broker_approved":false},
+  {"timestamp":"2026-09-01T10:04:00Z","device_id":"camera-02","event_type":"authentication","result":"failure"},
+  {"timestamp":"2026-09-01T10:04:10Z","device_id":"camera-02","event_type":"authentication","result":"failure"},
+  {"timestamp":"2026-09-01T10:04:20Z","device_id":"camera-02","event_type":"authentication","result":"failure"},
+  {"timestamp":"2026-09-01T10:04:30Z","device_id":"camera-02","event_type":"authentication","result":"failure"},
+  {"timestamp":"2026-09-01T10:04:40Z","device_id":"camera-02","event_type":"authentication","result":"failure"},
+  {"timestamp":"2026-09-01T10:05:00Z","device_id":"sensor-01","event_type":"network_connection","destination":"telemetry.lab.local","destination_approved":true,"protocol":"https","port":443}
+]
