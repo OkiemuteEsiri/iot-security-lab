@@ -1,0 +1,5 @@
+[
+  {"device_id":"iot-cam-001","type":"camera","firmware":"3.4.1","firmware_supported":false,"management_protocols":["https","telnet"],"default_or_shared_credentials":true,"segmented":false,"telemetry_encrypted":true,"automatic_updates":false},
+  {"device_id":"iot-sensor-014","type":"temperature-sensor","firmware":"8.2.0","firmware_supported":true,"management_protocols":["https"],"default_or_shared_credentials":false,"segmented":true,"telemetry_encrypted":true,"automatic_updates":true},
+  {"device_id":"iot-gateway-003","type":"gateway","firmware":"5.1.2","firmware_supported":true,"management_protocols":["https","snmpv2c"],"default_or_shared_credentials":false,"segmented":true,"telemetry_encrypted":false,"automatic_updates":true}
+]
